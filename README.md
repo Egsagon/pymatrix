@@ -1,5 +1,7 @@
 # PyMatrix
 
+![demo](demo.png)
+
 ## What it it?
 
 PyMatrix is a python module that allow you to create representations of multiple matrixes and make operations between them.
