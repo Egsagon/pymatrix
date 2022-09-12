@@ -209,14 +209,5 @@ class Preset:
             super().__init__(*cnt)
 
 
-#if __name__ == '__main__':
-#    print(f'Please import {__file__} as a module.')
-
-
-m = Matrix((1, 2, 3),
-                      (4, 5, 6),
-                      (7, 8, 9))
-
-print(m.join())
-
-print([m.join(raw = True)])
+if __name__ == '__main__':
+    print(f'Please import {__file__} as a module.')
